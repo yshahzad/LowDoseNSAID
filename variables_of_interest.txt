@@ -1,0 +1,53 @@
+Variable List: (ColName - Description)
+CDQ001 - SP ever had pain or discomfort in chest
+CDQ006 - How soon is the pain relieved
+CDQ008 - Severe pain in chest more than half hour
+CDQ010 - Shortness of breath on stairs/inclines
+DUQ200 - Ever used marijuana or hashish
+DUQ210 - Age when first tried marijuana
+DUQ220Q - Last time used marijuana or hashish
+DUQ220U - Last time used marijuana or hashish/unit
+DUQ240 - Ever used cocaine/heroin/methamphetamine
+DUQ250 - Ever use any form of cocaine
+DUQ260 - Age first used cocaine
+DUQ270Q - Last time you used cocaine, in any form
+DUQ270U - Last time you used cocaine/unit
+DUQ280 - # of days used cocaine/month
+DUQ330 - Ever used methamphetamine
+DUQ340 - Age first used methamphetamine
+DUQ350Q - Last time used methamphetamine
+DUQ350U - Last time used methamphetamine/unit
+DUQ380D - Drugs injected - Steroids
+HIQ011 - Covered by health insurance
+HIQ032A - Covered by private insurance
+HIQ032B - Covered by Medicare
+HIQ210 - Time when no insurance in past year?
+MCQ160b - Ever told had congestive heart failure
+MCQ160c - Ever told you had coronary heart disease
+MCQ160d - Ever told you had angina/angina pectoris
+MCQ160e - Ever told you had heart attack
+MCQ160f - Ever told you had a stroke
+MCQ160m - Ever told you had thyroid problem
+MCQ220 - Ever told you had cancer or malignancy
+MCQ160p - Ever told you had COPD, emphysema, ChB
+MCQ160l - Ever told you had any liver condition
+RXQ510 - Dr told to take daily low-dose aspirin?
+RXQ515 - Followed advice, took low-dose aspirin?
+RXQ520 - Taking low-dose aspirin on your own?
+RXQ525G - Schedule/frequency of aspirin use
+RXD530 - Aspirin dose in milligrams (mg)
+WHD010 - Current self-reported height (inches)
+WHD020 - Current self-reported weight (pounds)
+WHQ030 - How do you consider your weight
+WHQ040 - Like to weigh more, less or same
+WHD045 - How much would like to weigh (pounds)
+WHD220 - Weight loss most successful (pounds)
+WHD080A - Ate less to lose weight
+WHD080B - Switched to foods with lower calories
+WHD080C - Ate less fat to lose weight
+WHD080D - Exercised to lose weight
+WHD080P - Started to smoke or began to smoke again
+WHD080Q - Ate more fruits, vegetables, salads
+WHD080R - Changed eating habits
+WHD080S - Ate less sugar, candy, sweets
+WHD080T - Ate less junk food or fast food
